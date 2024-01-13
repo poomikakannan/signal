@@ -1,0 +1,67 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+body{
+    width: 98%;
+    height: 98%;
+    /* margin: 0; */
+   
+}
+#container{
+    width: 100%;
+    height: 100%;
+    background-color: chocolate;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#box{
+    width: 18%;
+    height: 70%;
+    background-color: rgb(73, 73, 73);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    border-radius: 30px;
+
+}
+.btn1{
+    width: 50%;
+    height: 27%;
+    background-color: black;
+    border-radius: 50%;
+}
+.btn2{
+    width: 50%;
+    height: 27%;
+    background-color: black;
+    border-radius: 50%;
+}
+.btn3{
+    width: 50%;
+    height: 27%;
+    background-color: black;
+    border-radius: 50%;
+}
+#btn4{
+    width: 30%;
+    height: 10%;
+    background-color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.a1{
+    background-color: red;
+}
+.a2{
+    background-color: yellow;
+}
+.a3{
+    background-color:green ;
+}
